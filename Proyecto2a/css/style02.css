@@ -38,12 +38,12 @@
  }
  @font-face {
     font-family: "Main title";
-    src: url() format("truetype");
+    src: url(../fonts/Lato-Italic.ttf) format("truetype");
  }
  
  @font-face {
     font-family: Text;
-    src: url() format("truetype");
+    src: url(../fonts/Lato-Light.ttf) format("truetype");
  }
  
  .container {
